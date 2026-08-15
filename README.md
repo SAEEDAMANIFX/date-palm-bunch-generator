@@ -94,6 +94,14 @@ A Blender addon that generates realistic date palm bunches in one click — anim
 
 Or without installing: File > Append > `date_bunch_assets.blend` > Object > `DateBunch`.
 
+## ☕ الدعم — Support
+
+إذا أعجبك المشروع وحاب تدعم المطور — If you like this project and want to support the developer:
+
+[![PayPal](https://img.shields.io/badge/PayPal-%D8%A7%D8%AF%D8%B9%D9%85%D9%86%D9%8A%20%7C%20Support%20me-00457C?logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/saeedamani)
+
+**https://www.paypal.com/paypalme/saeedamani**
+
 ## License
 
 MIT — free for any use, including commercial.
