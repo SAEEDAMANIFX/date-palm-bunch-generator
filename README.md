@@ -102,6 +102,17 @@ Or without installing: File > Append > `date_bunch_assets.blend` > Object > `Dat
 
 **https://www.paypal.com/paypalme/saeedamani**
 
+
+---
+
+## 🔍 Keywords — كلمات البحث
+
+**English:** blender date palm addon · date palm 3D model · realistic dates blender · procedural date bunch · geometry nodes fruit generator · medjool ajwa sukkari 3D · free blender addon fruits · date palm tree asset · Saudi dates 3D model · khalal bisr dates blender
+
+**عربي:** عذق تمر بلندر · نموذج تمر ثلاثي الأبعاد · إضافة بلندر مجانية · مولد تمور واقعي · نخلة تمر 3D · تمر مجدول عجوة سكري خلاص برحي · موديل تمر للأنميشن · جيومتري نودز تمر · أصول ثلاثية الأبعاد سعودية · تمور سعودية بلندر
+
+*If you build something cool with this, tag the repo — would love to see it!*
+
 ## License
 
 MIT — free for any use, including commercial.
