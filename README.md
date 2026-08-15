@@ -4,6 +4,8 @@
 
 A Blender addon that generates realistic date palm bunches in one click — animatable curve strands, displacement-wrinkled fruits, 23 Saudi date varieties, and a built-in collision guard so fruits never intersect.
 
+![Date Palm Bunch preview](preview.jpg)
+
 > يتطلب بلندر 4.2 أو أحدث — Requires Blender 4.2+
 
 ---
